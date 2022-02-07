@@ -1,3 +1,3 @@
 # Andrew Bradt's Notes
 ## Summary
-This repository contains all of the notes taken by Andrew Bradt for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Andrew Bradt](https://github.com/andrew-bradt) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
